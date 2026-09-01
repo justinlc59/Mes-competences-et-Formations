@@ -70,7 +70,8 @@ Restaurer des données - Acquis ✅
 Vérifier une sauvegarde - Acquis ✅
 
 
-​### 🎓 Formations / certifications:
+​
+### 🎓 Formations / certifications:
 
 CompTIA A+ - A venir 📎​
 
