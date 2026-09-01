@@ -4,21 +4,21 @@
 
 ### 💻 Bases de PowerShell:
 
-Comprendre PowerShell
+Comprendre PowerShell - A venir 📎
 
-Ouvrir PowerShell
+Ouvrir PowerShell - A venir 📎
 
-Utiliser les commandes PowerShell
+Utiliser les commandes PowerShell - A venir 📎
 
-Comprendre les cmdlets
+Comprendre les cmdlets - A venir 📎
 
-Utiliser Get-Help
+Utiliser Get-Help - A venir 📎
 
-Utiliser Get-Command
+Utiliser Get-Command - A venir 📎
 
-Comprendre les variables
+Comprendre les variables - A venir 📎
 
-Utiliser les paramètres
+Utiliser les paramètres - A venir 📎
 
 ### 📁 Gestion du système:
 
@@ -46,57 +46,57 @@ Désactiver un utilisateur - Acquis ✅
 
 Supprimer un utilisateur - Acquis ✅
 
-Gérer les groupes
+Gérer les groupes - A venir 📎
 
 Réinitialiser un mot de passe - Acquis ✅
 
-Utiliser PowerShell avec Active Directory
+Utiliser PowerShell avec Active Directory - A venir 📎
 
 ### 🌐 Réseau:
 
-Afficher la configuration réseau
+Afficher la configuration réseau - A venir 📎
 
-Tester une connexion
+Tester une connexion - A venir 📎
 
-Tester un port
+Tester un port - A venir 📎
 
-Vérifier le DNS
+Vérifier le DNS - A venir 📎
 
-Vérifier les connexions réseau
+Vérifier les connexions réseau - A venir 📎
 
-Automatiser des diagnostics réseau
+Automatiser des diagnostics réseau - A venir 📎
 
 ### 📝 Scripts PowerShell:
 
-Créer un script .ps1
+Créer un script .ps1 - A venir 📎
 
-Utiliser des variables
+Utiliser des variables - A venir 📎
 
-Utiliser des conditions if
+Utiliser des conditions if - A venir 📎
 
-Utiliser des boucles
+Utiliser des boucles - A venir 📎
 
-Utiliser des fonctions
+Utiliser des fonctions - A venir 📎
 
-Gérer les erreurs
+Gérer les erreurs - A venir 📎
 
-Ajouter des commentaires
+Ajouter des commentaires - A venir 📎
 
-Créer des scripts réutilisables
+Créer des scripts réutilisables - A venir 📎
 
 ### 🤖 Automatisation:
 
-Automatiser la création d'utilisateurs
+Automatiser la création d'utilisateurs - A venir 📎
 
-Automatiser la gestion des fichiers
+Automatiser la gestion des fichiers - A venir 📎
 
-Automatiser la maintenance d'un PC
+Automatiser la maintenance d'un PC - A venir 📎
 
-Automatiser la récupération d'informations système
+Automatiser la récupération d'informations système - A venir 📎
 
-Automatiser des diagnostics
+Automatiser des diagnostics - A venir 📎
 
-Automatiser certaines tâches Active Directory
+Automatiser certaines tâches Active Directory - A venir 📎
 
 ### 🛠️ Outils:
 PowerShell,
@@ -108,8 +108,8 @@ Git / GitHub.
 
 ### 🎓 Formations / certifications:
 
-Formation PowerShell
+Formation PowerShell - A venir 📎
 
-Microsoft Learn – PowerShell
+Microsoft Learn – PowerShell - A venir 📎
 
-Certification Microsoft liée à l'administration Windows
+Certification Microsoft liée à l'administration Windows - A venir 📎
