@@ -1,4 +1,4 @@
-# 3-Windows Server et Active Directory
+# 3 - Windows Server et Active Directory
 
 ## Objectif : apprendre à administrer un environnement Windows Server et gérer les utilisateurs, ordinateurs et droits d'une entreprise.
 
