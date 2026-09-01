@@ -1,4 +1,4 @@
-# 2-Réseaux TCPet IP
+# 2 - Réseaux TCPet IP
 
 ## 🎯 Objectif : comprendre le fonctionnement d'un réseau informatique et être capable de configurer et dépanner une connexion réseau.
 
