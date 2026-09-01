@@ -1,32 +1,32 @@
 # 2-Réseaux TCPet IP
 
-##🎯 Objectif : comprendre le fonctionnement d'un réseau informatique et être capable de configurer et dépanner une connexion réseau.
+## 🎯 Objectif : comprendre le fonctionnement d'un réseau informatique et être capable de configurer et dépanner une connexion réseau.
 
 
-###📍 Bases du réseau:
+### 📍 Bases du réseau:
 
-Comprendre ce qu'est un réseau informatique
+Comprendre ce qu'est un réseau informatique - Acquis ✅​
 
-Comprendre LAN / WAN
+Comprendre LAN / WAN - Acquis ✅​
 
-Comprendre client / serveur
+Comprendre client / serveur - Acquis ✅​
 
 Comprendre le modèle OSI
 
 Comprendre le modèle TCP/IP
 
-Comprendre les adresses MAC
+Comprendre les adresses MAC - Acquis ✅​
 
 
 ### 🌐 Adressage IP:
 
-Comprendre une adresse IPv4
+Comprendre une adresse IPv4 - Acquis ✅​
 
-Comprendre IPv6
+Comprendre IPv6 - Acquis ✅​
 
-Comprendre les adresses privées et publiques
+Comprendre les adresses privées et publiques - Acquis ✅​
 
-Comprendre le masque de sous-réseau
+Comprendre le masque de sous-réseau - Acquis ✅​
 
 Comprendre la passerelle
 
@@ -34,13 +34,14 @@ Calculer un sous-réseau simple
 
 Configurer une adresse IP
 
-🔄 Protocoles réseau
+
+### 🔄 Protocoles réseau
 
 TCP
 
 UDP
 
-DHCP
+DHCP​
 
 DNS
 
@@ -56,21 +57,21 @@ ICMP
 
 ###🔌 Équipements réseau
 
-Comprendre le fonctionnement d'un switch
+Comprendre le fonctionnement d'un switch - Acquis ✅​
 
-Comprendre le fonctionnement d'un routeur
+Comprendre le fonctionnement d'un routeur - Acquis ✅​
 
-Configurer un switch
+Configurer un switch  ​
 
-Configurer un routeur
+Configurer un routeur 
 
-Comprendre les points d'accès Wi-Fi
+Comprendre les points d'accès Wi-Fi - Acquis ✅​
 
-Comprendre les pare-feu
+Comprendre les pare-feu - Acquis ✅​
 
 ### 🏷️ VLAN / NAT
 
-Comprendre les VLAN
+Comprendre les VLAN Acquis ✅​
 
 Configurer un VLAN
 
@@ -80,11 +81,11 @@ Comprendre le NAT
 
 Comprendre le port forwarding
 
-### 🛠️ Diagnostic réseau
+### 🛠️ Diagnostic réseau:
 
-Utiliser ping
+Utiliser ping - Acquis ✅​
 
-Utiliser ipconfig
+Utiliser ipconfig - Acquis ✅​
 
 Utiliser tracert
 
