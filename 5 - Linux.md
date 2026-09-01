@@ -4,116 +4,88 @@
 
 ### 🖥️ Bases Linux:
 
-Comprendre Linux
+Comprendre Linux - Acquis ✅
 
-Installer Ubuntu ou Debian
+Installer Ubuntu ou Debian - Acquis ✅​
 
-Utiliser le terminal
+Utiliser le terminal - Acquis ✅​
 
-Naviguer dans les dossiers
+Naviguer dans les dossiers - Acquis ✅
 
-Créer / supprimer des fichiers
+Créer / supprimer des fichiers - Acquis ✅
 
-Copier / déplacer des fichiers
+Copier / déplacer des fichiers - Acquis ✅
 
-Rechercher des fichiers
+Rechercher des fichiers - Acquis ✅
 
-Installer des logiciels
+Installer des logiciels - Acquis ✅
 
 ### 👤 Utilisateurs et permissions:
 
-Créer un utilisateur
+Créer un utilisateur - Acquis ✅
 
-Modifier un utilisateur
+Modifier un utilisateur - A venir 📎
 
-Supprimer un utilisateur
+Supprimer un utilisateur - A venir 📎
 
-Créer un groupe
+Créer un groupe - A venir 📎
 
-Comprendre les permissions
+Comprendre les permissions - A venir 📎
 
-Utiliser chmod
+Utiliser chmod - A venir 📎
 
-Utiliser chown
+Utiliser chown - A venir 📎
 
-Comprendre sudo
+Comprendre sudo - A venir 📎
 
 ### 📦 Gestion du système:
 
-Installer des mises à jour
+Installer des mises à jour - Acquis ✅
 
-Installer des paquets
+Installer des paquets - Acquis ✅
 
-Comprendre les services
+Comprendre les services - Acquis ✅
 
-Démarrer / arrêter un service
+Démarrer / arrêter un service - Acquis ✅
 
-Consulter les logs
+Consulter les logs - A venir 📎
 
-Vérifier les ressources système
+Vérifier les ressources système - A venir 📎
 
-Gérer les processus
+Gérer les processus - A venir 📎
 
 ### 🌐 Réseau Linux:
 
-Configurer une adresse IP
+Configurer une adresse IP - Acquis ✅
 
-Vérifier la connexion réseau
+Vérifier la connexion réseau - Acquis ✅
 
-Utiliser ping
+Utiliser ping - Acquis ✅
 
-Utiliser ip
+Utiliser ip - Acquis ✅
 
-Comprendre DNS
+Comprendre DNS - A venir 📎
 
-Comprendre DHCP
+Comprendre DHCP - A venir 📎
 
-Configurer SSH
+Configurer SSH - A venir 📎
 
 ### 🔐 Sécurité:
 
-Mettre Linux à jour
+Mettre Linux à jour - Acquis ✅
 
-Gérer les permissions
+Gérer les permissions - A venir 📎
 
-Sécuriser SSH
+Sécuriser SSH - A venir 📎
 
-Comprendre le pare-feu
+Comprendre le pare-feu - A venir 📎
 
-Comprendre les bonnes pratiques de sécurité
+Comprendre les bonnes pratiques de sécurité - A venir 📎
 
-### 📝 Commandes importantes:
+### 🎓 Formations / certifications :
 
-ls,
+Linux Essentials — Cisco Networking Academy  - A venir 📎
 
-cd,
 
-pwd,
 
-mkdir,
 
-cp,
-
-mv,
-
-rm,
-
-cat,
-
-grep,
-
-find,
-
-sudo,
-
-apt,
-
-systemctl,
-
-journalctl.
-
-ip,
-
-ping,
-
-ssh.
