@@ -1,4 +1,4 @@
-# Mes-competences-et-Formations
+# 0 - Présentation
 Bienvenue sur cette partie de mon portfolio.
 
 Titulaire d’un BTS informatique, je continue actuellement à développer mes compétences afin de progresser dans le métier de technicien informatique.
