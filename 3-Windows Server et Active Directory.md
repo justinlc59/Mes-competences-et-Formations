@@ -1,6 +1,6 @@
 # 3-Windows Server et Active Directory
 
-##Objectif : apprendre à administrer un environnement Windows Server et gérer les utilisateurs, ordinateurs et droits d'une entreprise.
+## Objectif : apprendre à administrer un environnement Windows Server et gérer les utilisateurs, ordinateurs et droits d'une entreprise.
 
 
 ### 🖥️ Windows Server:
@@ -112,15 +112,15 @@ Consulter les journaux système
 Diagnostiquer une panne
 
 ### 🛠️ Outils:
-Windows Server
-Active Directory
-Group Policy (GPO)
-DNS
-DHCP
-PowerShell
-Hyper-V
-VMware / VirtualBox
-RSAT
+Windows Server,
+Active Directory,
+Group Policy (GPO),
+DNS,
+DHCP,
+PowerShell,
+Hyper-V,
+VMware / VirtualBox,
+RSAT.
 
 
 ### 🎓 Formations / certifications:
