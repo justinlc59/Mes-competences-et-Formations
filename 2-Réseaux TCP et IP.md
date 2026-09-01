@@ -11,9 +11,9 @@ Comprendre LAN / WAN - Acquis ✅​
 
 Comprendre client / serveur - Acquis ✅​
 
-Comprendre le modèle OSI
+Comprendre le modèle OSI - A venir 📎
 
-Comprendre le modèle TCP/IP
+Comprendre le modèle TCP/IP - A venir 📎
 
 Comprendre les adresses MAC - Acquis ✅​
 
@@ -28,32 +28,32 @@ Comprendre les adresses privées et publiques - Acquis ✅​
 
 Comprendre le masque de sous-réseau - Acquis ✅​
 
-Comprendre la passerelle
+Comprendre la passerelle - A venir 📎
 
-Calculer un sous-réseau simple
+Calculer un sous-réseau simple - A venir 📎
 
-Configurer une adresse IP
+Configurer une adresse IP - A venir 📎
 
 
 ### 🔄 Protocoles réseau
 
-TCP
+TCP - A venir 📎
 
-UDP
+UDP - A venir 📎
 
-DHCP​
+DHCP​ - A venir 📎
 
-DNS
+DNS - A venir 📎
 
-HTTP / HTTPS
+HTTP / HTTPS - A venir 📎
 
-FTP / SFTP
+FTP / SFTP - A venir 📎
 
-SSH
+SSH - A venir 📎
 
-ARP
+ARP - A venir 📎
 
-ICMP
+ICMP - A venir 📎
 
 ###🔌 Équipements réseau
 
@@ -61,9 +61,9 @@ Comprendre le fonctionnement d'un switch - Acquis ✅​
 
 Comprendre le fonctionnement d'un routeur - Acquis ✅​
 
-Configurer un switch  ​
+Configurer un switch - A venir 📎 ​
 
-Configurer un routeur 
+Configurer un routeur - A venir 📎
 
 Comprendre les points d'accès Wi-Fi - Acquis ✅​
 
@@ -71,15 +71,15 @@ Comprendre les pare-feu - Acquis ✅​
 
 ### 🏷️ VLAN / NAT
 
-Comprendre les VLAN Acquis ✅​
+Comprendre les VLAN - Acquis ✅​
 
-Configurer un VLAN
+Configurer un VLAN - A venir 📎
 
-Comprendre le routage entre VLAN
+Comprendre le routage entre VLAN - A venir 📎
 
-Comprendre le NAT
+Comprendre le NAT - A venir 📎
 
-Comprendre le port forwarding
+Comprendre le port forwarding - A venir 📎
 
 ### 🛠️ Diagnostic réseau:
 
@@ -87,44 +87,44 @@ Utiliser ping - Acquis ✅​
 
 Utiliser ipconfig - Acquis ✅​
 
-Utiliser tracert
+Utiliser tracert - A venir 📎
 
-Utiliser nslookup
+Utiliser nslookup - A venir 📎
 
-Utiliser netstat
+Utiliser netstat - A venir 📎
 
-Utiliser arp
+Utiliser arp - A venir 📎
 
-Diagnostiquer un problème DHCP
+Diagnostiquer un problème DHCP - A venir 📎
 
-Diagnostiquer un problème DNS
+Diagnostiquer un problème DNS - A venir 📎
 
-Diagnostiquer une perte de connexion
+Diagnostiquer une perte de connexion - A venir 📎
 
-Diagnostiquer un problème Wi-Fi
+Diagnostiquer un problème Wi-Fi - A venir 📎
 
 ### 🔍 Analyse réseau
 
-Utiliser Wireshark
+Utiliser Wireshark - A venir 📎
 
-Lire une capture réseau
+Lire une capture réseau - A venir 📎
 
-Identifier une adresse IP
+Identifier une adresse IP - A venir 📎
 
-Identifier un port
+Identifier un port - A venir 📎
 
-Identifier un protocole
+Identifier un protocole - A venir 📎
 
-Analyser une requête DNS
+Analyser une requête DNS - A venir 📎
 
-Analyser une connexion TCP
+Analyser une connexion TCP - A venir 📎
 
 ### 🎓 Formations / certifications
 
-Cisco Networking Basics
+Cisco Networking Basics - A venir 📎
 
-Cisco CCST Networking
+Cisco CCST Networking - A venir 📎
 
-CompTIA Network+
+CompTIA Network+ - A venir 📎 
 
-Cisco CCNA
+Cisco CCNA- A venir 📎
