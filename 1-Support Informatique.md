@@ -71,11 +71,6 @@ Vérifier une sauvegarde - Acquis ✅
 ​
 ### 🎓 Formations / certifications:
 
-CompTIA A+ - A venir 📎​
-
-Microsoft 365 Fundamentals - A venir 📎​
-
-Microsoft Azure Fundamentals (AZ-900) - A venir 📎​
 
 PIX - Acquis ✅
 
