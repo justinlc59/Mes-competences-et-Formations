@@ -73,8 +73,6 @@ Vérifier une sauvegarde - Acquis ✅
 
 CompTIA A+ - A venir 📎​
 
-ITIL Foundation - A venir 📎​
-
 Microsoft 365 Fundamentals - A venir 📎​
 
 Microsoft Azure Fundamentals (AZ-900) - A venir 📎​
