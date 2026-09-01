@@ -37,8 +37,6 @@ Gestion des mots de passe - en cours 🔧​
 
 Gestion des permissions - en cours 🔧​
 
-Active Directory - en cours 🔧​
-
 Groupes et droits utilisateurs - en cours 🔧​
 
 Microsoft 365​ - en cours 🔧​
