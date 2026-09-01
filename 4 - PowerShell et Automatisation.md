@@ -22,33 +22,33 @@ Utiliser les paramètres
 
 ### 📁 Gestion du système:
 
-Naviguer dans les dossiers
+Naviguer dans les dossiers - Acquis ✅
 
-Créer / supprimer des fichiers
+Créer / supprimer des fichiers - Acquis ✅
 
-Copier / déplacer des fichiers
+Copier / déplacer des fichiers - Acquis ✅
 
-Rechercher des fichiers
+Rechercher des fichiers - Acquis ✅
 
-Gérer les processus
+Gérer les processus - Acquis ✅
 
-Gérer les services Windows
+Gérer les services Windows - Acquis ✅
 
-Consulter les informations système
+Consulter les informations système - Acquis ✅
 
 ### 👥 Gestion des utilisateurs:
 
-Créer un utilisateur
+Créer un utilisateur - Acquis ✅
 
-Modifier un utilisateur
+Modifier un utilisateur - Acquis ✅
 
-Désactiver un utilisateur
+Désactiver un utilisateur - Acquis ✅
 
-Supprimer un utilisateur
+Supprimer un utilisateur - Acquis ✅
 
 Gérer les groupes
 
-Réinitialiser un mot de passe
+Réinitialiser un mot de passe - Acquis ✅
 
 Utiliser PowerShell avec Active Directory
 
@@ -104,7 +104,7 @@ Windows Terminal,
 Visual Studio Code,
 Active Directory,
 Windows Server,
-Git / GitHub,
+Git / GitHub.
 
 ### 🎓 Formations / certifications:
 
