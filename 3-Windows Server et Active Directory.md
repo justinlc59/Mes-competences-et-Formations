@@ -5,11 +5,11 @@
 
 ### 🖥️ Windows Server:
 
-Installer Windows Server
+Installer Windows Server - Acquis ✅
 
 Configurer Windows Server
 
-Configurer une adresse IP fixe
+Configurer une adresse IP fixe - Acquis ✅
 
 Gérer les rôles et fonctionnalités
 
@@ -17,13 +17,13 @@ Gérer les services Windows
 
 Utiliser l'Observateur d'événements
 
-Effectuer les mises à jour
+Effectuer les mises à jour - Acquis ✅
 
 Configurer un serveur de fichiers
 
 ### 👥 Active Directory:
 
-Comprendre Active Directory
+Comprendre Active Directory - Acquis ✅
 
 Créer un domaine
 
