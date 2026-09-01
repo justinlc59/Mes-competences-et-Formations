@@ -55,7 +55,7 @@ ARP - A venir 📎
 
 ICMP - A venir 📎
 
-###🔌 Équipements réseau
+### 🔌 Équipements réseau
 
 Comprendre le fonctionnement d'un switch - Acquis ✅​
 
