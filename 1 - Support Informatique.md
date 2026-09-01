@@ -1,4 +1,4 @@
-# 1-Support informatique
+# 1 - Support informatique
 
 ## 🎯 Objectif : apprendre à assister les utilisateurs, diagnostiquer les problèmes et maintenir les postes informatiques d'une entreprise.
 
